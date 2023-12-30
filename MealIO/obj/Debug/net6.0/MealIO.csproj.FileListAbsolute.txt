@@ -1,0 +1,15 @@
+C:\Users\princ\Documents\MealIO\MealIO\obj\Debug\net6.0\MealIO.csproj.AssemblyReference.cache
+C:\Users\princ\Documents\MealIO\MealIO\obj\Debug\net6.0\MealIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\Documents\MealIO\MealIO\obj\Debug\net6.0\MealIO.AssemblyInfoInputs.cache
+C:\Users\princ\Documents\MealIO\MealIO\obj\Debug\net6.0\MealIO.AssemblyInfo.cs
+C:\Users\princ\Documents\MealIO\MealIO\obj\Debug\net6.0\MealIO.csproj.CoreCompileInputs.cache
+C:\Users\princ\Documents\MealIO\MealIO\bin\Debug\net6.0\MealIO.exe
+C:\Users\princ\Documents\MealIO\MealIO\bin\Debug\net6.0\MealIO.deps.json
+C:\Users\princ\Documents\MealIO\MealIO\bin\Debug\net6.0\MealIO.runtimeconfig.json
+C:\Users\princ\Documents\MealIO\MealIO\bin\Debug\net6.0\MealIO.dll
+C:\Users\princ\Documents\MealIO\MealIO\bin\Debug\net6.0\MealIO.pdb
+C:\Users\princ\Documents\MealIO\MealIO\obj\Debug\net6.0\MealIO.dll
+C:\Users\princ\Documents\MealIO\MealIO\obj\Debug\net6.0\refint\MealIO.dll
+C:\Users\princ\Documents\MealIO\MealIO\obj\Debug\net6.0\MealIO.pdb
+C:\Users\princ\Documents\MealIO\MealIO\obj\Debug\net6.0\MealIO.genruntimeconfig.cache
+C:\Users\princ\Documents\MealIO\MealIO\obj\Debug\net6.0\ref\MealIO.dll
